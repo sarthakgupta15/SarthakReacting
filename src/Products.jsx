@@ -1,9 +1,11 @@
 import React from 'react'
 
-function Products() {
+function Products({age, data}) {
   return (
-    <div className="text-white">
-        <div className='w-full h-96 bg-zinc-800'></div>
+    <div className="text-white w-full h-screen bg-zinc-800">
+        <h1>{age}</h1>
+        <h2>{data.age}</h2>
+        <h2>{data.name}</h2>
     </div>
   )
 }
