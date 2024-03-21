@@ -5,3 +5,6 @@ jsx is very similar to html but with superpowers.
 <h1>2+2</h1>
 //output 2+2 in html
 <h1>{2+2}</h1> => 4 //in jsx
+
+React ka naam react isiliye hai jab bhi state change hoti hai wo change hoti hai.
+h1 tag in app.jsx is jsx h1. it will convert to React.create Element mein convert hoga
