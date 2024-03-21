@@ -1,0 +1,7 @@
+component ek function hai jo return karega jsx
+
+jsx html ki tarah dikhne wala syntax hai but uske paas kuch superpowers hai html ke paas nhi hai
+jsx is very similar to html but with superpowers. 
+<h1>2+2</h1>
+//output 2+2 in html
+<h1>{2+2}</h1> => 4 //in jsx
